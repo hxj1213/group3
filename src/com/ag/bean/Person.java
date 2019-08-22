@@ -5,6 +5,6 @@ public class Person {
         System.out.println("hello word");
     }
     public void man(int i){
-        
+        System.out.println("hhh");
     }
 }
